@@ -1,0 +1,65 @@
+==================================================================
+https://keybase.io/ezren
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://kc9tsf.us
+  * I am ezren (https://keybase.io/ezren) on keybase.
+  * I have a public key with fingerprint 4D3D 180F 3A6A E6F3 C793  35BC B1B1 929E 9618 13A7
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "4d3d180f3a6ae6f3c79335bcb1b1929e961813a7",
+            "host": "keybase.io",
+            "key_id": "b1b1929e961813a7",
+            "uid": "f351ef23bb42d6e9983197b7e9bee700",
+            "username": "ezren"
+        },
+        "service": {
+            "hostname": "kc9tsf.us",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1399317927,
+    "expire_in": 157680000,
+    "prev": "193305057af4d7916b17fca2efb0299afa17ea1d338805cc7c00c3a42ca2c4db",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v0.1.14
+Comment: https://keybase.io/crypto
+
+yMHqAnicbZFfTBRHHMf3VKQeIYLlQWPLw4JBzIk7u3u3O9d60BBSHwzBlAYIxs3O
+7uyxAXaP3b0Ter3Qx/pgyPWh8AJGUjABDQkm/EkI0IpRC9SSXDSERHgoSjTEKIck
+UpRZgm/Oy2S+v8/3+5uZ30z2QcrrmZu60cRnOBWe2elXUeqH8OqtOI1MtY0OxulG
+vLdpuhHGVsTSDYcO0rzKqUBkNE4OyDigcYoAOc6PFAQQgCzEMABEwMkC7aMbTNt1
+kBgk27hEN4lGDpKuEvUzfHSvoHF+gDWWQ4hn1QCGUOQAFJCAIcJYYBgXtLFlyM2Y
+0PgnCxt0wkcTKaYrRIrv9d0vNyrQsbWSqE1cEct0TMVsInKD40SCrstpi7jYVYyk
+/QAJ6YZKXkwMMWzZumnQQUBIxdHdRMBByAEBsoKPxq0R3cKS7hJ+ISAyZLltcIxE
+AvItjJ/xC7LGqwIEAQQETZFZrCGGhVDWZCBgGagcJ4qMX1EEhWEUTuZZwii8ikh/
+G7cYJh3kyTXlMIm09bAhO1EL04m/pi8fojxe6nDGAXdmlPdIzqdJ5v6f+dFOdBUu
+hcYGjuf/up6VnSf98cYqrAulfbB9+REznFey2XABfFgoP3O+1tZ+m+8eS3WmroRy
+htecYIbdkvX7+H/Jvy8mBp7GtIKxWqmoS/xla35nZWsxbS+VVU8lNzI3PfX+NOo+
+0bLyTG2nqhdHnven758UK77pHV+62Tx19E7B5ERp38Nr71+sbs+c6zzdWxpS+waH
+nizA4tGOLwZrii5tSNvJ9Nok2/MP/qq8ipKGHpS+/FJLvZ4AbaM7X6dOnV3LQpUL
+yzX0W+/It6PcXP2Pxa1/Di5+d/3Y3SqeErb7Z342c2fzOvLL9H/fVfZEuzfiXcn1
+/nuPkXC77vtdr3kW1g==
+=5ZUu
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ezren
+
+==================================================================
